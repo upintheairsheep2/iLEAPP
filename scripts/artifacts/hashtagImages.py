@@ -7,8 +7,8 @@ from scripts.ilapfuncs import logfunc, tsv, timeline, is_platform_windows, open_
 __artifacts_v2__ = {
     "SiriHashtagImages": {
         "name": "Siri Hashtag Images",
-        "description": "Parses recent Siri GIF search queries and results",
-        "author": "Your Name",
+        "description": "Parses recent search queries and recently used items from the Hashtag Images plugin in iMessage",
+        "author": "upintheairsheep",
         "version": "0.1",
         "date": "2025-06-12",
         "category": "Siri Activity",
